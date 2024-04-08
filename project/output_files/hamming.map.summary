@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Apr 08 12:48:05 2024
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : hamming
+Top-level Entity Name : hamming
+Family : Cyclone IV E
+Total logic elements : 120
+    Total combinational functions : 80
+    Dedicated logic registers : 76
+Total registers : 76
+Total pins : 78
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
